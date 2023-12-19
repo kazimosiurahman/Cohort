@@ -1,4 +1,5 @@
-let name = 'harkirat';
+// play with different variables
+let name = 'kazi';
 let age = 11;
 let isMarried = "monkey";
 
@@ -19,11 +20,16 @@ for (let i=0; i<10; i++){
 console.log(num)
 
 
+// create an array
+
 const personArray = ["kazi",'raj',"shyam"]
  
  for (i=0; i<personArray.length; i++){
     console.log(personArray[i])
  }
+
+
+ // reverse a an array
 
  let numArray = [5,3,4,61,2]
  let max = 0
@@ -34,3 +40,6 @@ const personArray = ["kazi",'raj',"shyam"]
     numArray[i] = temp
  }
  console.log(numArray)
+
+
+ // write a function
