@@ -43,3 +43,10 @@ const personArray = ["kazi",'raj',"shyam"]
 
 
  // write a function
+
+ function sum(a,b){
+    return a+b;
+ }
+
+ const value = sum(1,2)
+ console.log("the sum is " + value)
